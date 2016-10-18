@@ -1,0 +1,15 @@
+packages: [
+  "advanced-open-file"
+  "atom-beautify"
+  "atom-jasmine"
+  "editorconfig"
+  "emmet"
+  "expand-selection-to-quotes"
+  "highlight-selected"
+  "language-docker"
+  "linter"
+  "linter-docker"
+  "linter-eslint"
+  "linter-jshint"
+  "package-sync"
+]
