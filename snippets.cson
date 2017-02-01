@@ -23,3 +23,6 @@
   'JSON stringify':
     'prefix': 'logjs'
     'body': 'console.log(JSON.stringify($1, null, 2))'
+  'logger info':
+    'prefix': 'info'
+    'body': 'this.logger.log("info", "$1");$2'
