@@ -4,7 +4,6 @@
       _analyticsUserId: "38313d80-c138-4bbb-a154-6caade0d4cda"
   core:
     disabledPackages: [
-      "linter-eslint"
       "linter-jshint"
     ]
     telemetryConsent: "limited"
@@ -12,8 +11,7 @@
     showInvisibles: true
   "exception-reporting":
     userId: "0b65c99c-4c2a-6d83-f53e-72c42bb00533"
-  linter:
-    showErrorPanel: false
+  linter: {}
   welcome:
     showOnStartup: false
   whitespace:
